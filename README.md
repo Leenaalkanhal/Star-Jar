@@ -72,5 +72,3 @@ This app was designed with a focus on soft visuals and child-friendly elements. 
 
 **Farah**  
 [X Account](https://x.com/farahalmozaini)
-
-📎 **Project Link**: [StarJar](https://github.com/Leenaalkanhal/Star-Jar)
